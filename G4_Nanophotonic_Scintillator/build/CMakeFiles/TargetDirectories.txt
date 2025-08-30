@@ -1,0 +1,4 @@
+/home/nathan.regev/software/git_repo/G4_Nanophotonic_Scintillator/build/CMakeFiles/NS.dir
+/home/nathan.regev/software/git_repo/G4_Nanophotonic_Scintillator/build/CMakeFiles/Simulation.dir
+/home/nathan.regev/software/git_repo/G4_Nanophotonic_Scintillator/build/CMakeFiles/edit_cache.dir
+/home/nathan.regev/software/git_repo/G4_Nanophotonic_Scintillator/build/CMakeFiles/rebuild_cache.dir

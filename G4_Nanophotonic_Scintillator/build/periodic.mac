@@ -1,0 +1,30 @@
+/system/root_file_name output_1ecca52d-a6aa-45e2-b5a6-46c13d99cf90.root
+
+        /structure/xWorld 0.1
+        /structure/yWorld 0.1
+        /structure/zWorld 100
+
+        /structure/isMultilayerNS 1
+        /structure/nLayersNS 10
+        /structure/scintillatorType 1
+        /structure/substrateThickness 0.1
+        /structure/scintillatorThickness 0.1
+        /structure/dielectricThickness 0.1
+
+        /structure/isAuLayer 0
+
+        /structure/constructDetectors 0
+        /structure/nGridX 1
+        /structure/nGridY 1
+        /structure/detectorDepth 0.0001
+
+        /structure/checkDetectorsOverlaps 1
+
+        /structure/scintillatorLifeTime 2.5
+        /structure/scintillationYield 9000.0
+
+        /run/initialize
+
+
+        /run/beamOn 1000000
+        
